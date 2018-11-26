@@ -1,0 +1,6 @@
+framework module Pods_TLITestUITests {
+  umbrella header "Pods-TLITestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
